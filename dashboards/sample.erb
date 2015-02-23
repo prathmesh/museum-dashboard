@@ -1,0 +1,27 @@
+<% content_for :title do %>My super sweet dashboard<% end %>
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="welcome" data-view="Text" data-title="Museum Statistics for D.C." data-text="This is a dashboard powered by data.imls.gov, dashing.rb, Socrata, and open data!" data-moreinfo=""></div>
+    </li>
+
+    <li data-row="2" data-col="2" data-sizex="1" data-sizey="1">
+      <div data-id="percent_nonprofit" data-view="Meter" data-title="Percent Nonprofit" data-min="0" data-max="100" data-suffix="%"></div>
+    </li>
+
+
+    <li data-row="2" data-col="2" data-sizex="2" data-sizey="1">
+      <div data-id="count_by_type" data-view="List" data-unordered="false" data-title="Museums by Type" data-moreinfo=""></div>
+    </li>
+    
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="total_income" data-view="Number" data-title="Total Reported Income of non-profit Museums in DC" data-moreinfo="" data-prefix="$"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="total_museums" data-view="Number" data-title="Total No. of Museums in DC" data-moreinfo="" data-prefix=""></div>
+    </li>
+
+  </ul>
+  <center><div style="font-size: 12px">Try this: curl -d '{ "auth_token": "YOUR_AUTH_TOKEN", "text": "Hey, Look what I can do!" }' \http://<%=request.host%>:<%=request.port%>/widgets/welcome</div></center>
+</div>

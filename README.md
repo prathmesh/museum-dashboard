@@ -1,2 +1,1 @@
-# museum-dashboard
-Dashboard displaying Statistics for Museums in USA. 
+Check out http://shopify.github.com/dashing for more information.

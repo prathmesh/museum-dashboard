@@ -1,0 +1,37 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Turn-key","value":8},{"label":"Paradigm shift","value":5},{"label":"Leverage","value":8},{"label":"Streamlininess","value":8},{"label":"Exit strategy","value":12},{"label":"Enterprise","value":5},{"label":"Pivoting","value":11},{"label":"Web 2.0","value":7},{"label":"Synergy","value":11}],"id":"buzzwords","updatedAt":1424544472}
+
+convergence: |+
+  data: {"points":[{"x":76,"y":22},{"x":77,"y":33},{"x":78,"y":49},{"x":79,"y":42},{"x":80,"y":39},{"x":81,"y":29},{"x":82,"y":3},{"x":83,"y":31},{"x":84,"y":7},{"x":85,"y":33}],"id":"convergence","updatedAt":1424544472}
+
+valuation: |+
+  data: {"current":22,"last":39,"id":"valuation","updatedAt":1424544472}
+
+karma: |+
+  data: {"current":81747,"last":112758,"id":"karma","updatedAt":1424544472}
+
+synergy: |+
+  data: {"value":38,"id":"synergy","updatedAt":1424544472}
+
+total_museums: |+
+  data: {"current":227,"id":"total_museums","updatedAt":1424626847}
+
+count_by_status: |+
+  data: {"items":[{"label":"GMU","value":"93"},{"label":"HSC","value":"85"},{"label":"ART","value":"25"},{"label":"HST","value":"11"},{"label":"BOT","value":"7"},{"label":"SCI","value":"3"},{"label":"ZAW","value":"2"},{"label":"NAT","value":"1"}],"id":"count_by_status","updatedAt":1424583531}
+
+count_by_museum_type: |+
+  data: {"items":[{"label":"GMU","value":"93"},{"label":"HSC","value":"85"},{"label":"ART","value":"25"},{"label":"HST","value":"11"},{"label":"BOT","value":"7"},{"label":"SCI","value":"3"},{"label":"ZAW","value":"2"},{"label":"NAT","value":"1"}],"id":"count_by_museum_type","updatedAt":1424626851}
+
+total_income: |+
+  data: {"current":"38548458965","id":"total_income","updatedAt":1424626849}
+
+count_by_type: |+
+  data: {"items":[{"label":"Uncategorized or General Museums","value":"93"},{"label":"Historical Societies, Historic Preservation","value":"85"},{"label":"Art Museums","value":"25"},{"label":"History Museums","value":"11"},{"label":"Arboretums, Botanical Gardens, \u0026 Nature Centers","value":"7"},{"label":"Science \u0026 Technology Museums \u0026 Planetariums","value":"3"},{"label":"Zoos, Aquariums, \u0026 Wildlife Conservation","value":"2"},{"label":"Natural History \u0026 Natural Science Museums","value":"1"}],"id":"count_by_type","updatedAt":1424626846}
+
+total_nonprofit: |+
+  data: {"current":"160","id":"total_nonprofit","updatedAt":1424626850}
+
+percent_nonprofit: |+
+  data: {"value":70,"id":"percent_nonprofit","updatedAt":1424626850}
+
